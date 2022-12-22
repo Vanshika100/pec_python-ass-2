@@ -1,0 +1,6 @@
+name="Hey,{name} Here!".format(name="vanshika")
+Sid="My SID is {sid}".format(sid=22104025)
+dept="I am from {dep} department and my CGPA is {n}".format(dep="Electrical",n=9.9)
+print(name)
+print(Sid)
+print(dept)
